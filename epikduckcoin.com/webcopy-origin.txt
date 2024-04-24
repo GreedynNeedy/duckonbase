@@ -1,0 +1,108 @@
+Uri: https://epikduckcoin.com/
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\index.htm
+Content Type: text/html
+
+Uri: https://epikduckcoin.com/faq.css
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\faq.css
+Content Type: text/css
+
+Uri: https://epikduckcoin.com/images/cgcolor.svg
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\cgcolor.svg
+Content Type: image/svg+xml
+
+Uri: https://epikduckcoin.com/images/cmccolor.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\cmccolor.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/copytoclipboard.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\copytoclipboard.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/dextoolscolor.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\dextoolscolor.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/dscolor.svg
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\dscolor.svg
+Content Type: image/svg+xml
+
+Uri: https://epikduckcoin.com/images/duck.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\duck.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/duckcoinbase.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\duckcoinbase.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/duckdancing.gif
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\duckdancing.gif
+Content Type: image/gif
+
+Uri: https://epikduckcoin.com/images/duckscrollingbg.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\duckscrollingbg.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/duckstonks.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\duckstonks.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/ducktwerking.gif
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\ducktwerking.gif
+Content Type: image/gif
+
+Uri: https://epikduckcoin.com/images/mandopfp.jpeg
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\mandopfp.jpeg
+Content Type: image/jpeg
+
+Uri: https://epikduckcoin.com/images/solscancolor.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\solscancolor.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/telegramcolor.svg
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\telegramcolor.svg
+Content Type: image/svg+xml
+
+Uri: https://epikduckcoin.com/images/twittercolor.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\twittercolor.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/images/videocover.png
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\images\videocover.png
+Content Type: image/png
+
+Uri: https://epikduckcoin.com/javascript/appear.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\appear.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/javascript/copytoclipboard.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\copytoclipboard.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/javascript/duckquack.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\duckquack.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/javascript/hidenav.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\hidenav.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/javascript/musictwo.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\musictwo.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/javascript/nav.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\nav.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/javascript/splash.js
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\javascript\splash.js
+Content Type: application/javascript
+
+Uri: https://epikduckcoin.com/LovelexieHandwritten.ttf
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\LovelexieHandwritten.ttf
+Content Type: font/ttf
+
+Uri: https://epikduckcoin.com/style.css
+File Name: C:\Downloaded Web Sites\epikduckcoin.com\style.css
+Content Type: text/css
+
